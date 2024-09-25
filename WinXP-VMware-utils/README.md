@@ -1,0 +1,1 @@
+# VMware Tools for WinXP
