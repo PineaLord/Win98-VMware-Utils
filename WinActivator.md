@@ -1,6 +1,6 @@
-#Windows Activator
+# Windows Activator
 
-##PowerShell
+## PowerShell
 
 ```
 irm https://get.activated.win | iex
